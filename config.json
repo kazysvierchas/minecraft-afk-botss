@@ -1,0 +1,9 @@
+{
+  "discordToken": "MTM3MzAyNDg0NDIyMzg3NzE5MA.GimlGJ.ojnuEx3nLI0zgWiKnkdiMRPzVo412E1OxXcNCI",
+  "discordClientId": "1373024844223877190",
+  "server": {
+    "host": "mc.mcslime.lt",
+    "port": 25565
+  },
+  "bots": ["RandomSmile", "Lasagney", "DayN"]
+}
